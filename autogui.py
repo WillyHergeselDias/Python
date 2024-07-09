@@ -1,0 +1,18 @@
+import pyautogui
+import time
+pyautogui.press("win")
+time.sleep(3)
+pyautogui.write("google")
+time.sleep(2)
+pyautogui.press("enter")
+time.sleep(10)
+pyautogui.hotkey("win","up")
+time.sleep(5)
+pyautogui.click(x=100, y=980)
+time.sleep(2)
+pyautogui.hotkey("win","up")
+time.sleep(3)
+pyautogui.write("gato calvo")
+pyautogui.press("enter")
+time.sleep(3)
+pyautogui.click(x = 350, y= 250)
