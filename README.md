@@ -2,3 +2,6 @@
 # None of this is actually useful, it's just a bunch of random code i decided to make more likely as a joke
 # Peace out and sorry for bad english
 # Just wanted to say that out of all the codes i have posted in this repo, "Matematica.py" is definitely the most stupid one 🔥
+
+
+![](https://tenor.com/view/kevin-mohawk-kitten-evil-wisp-aggressive-gif-3788442544152779116)
