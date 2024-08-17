@@ -3,4 +3,4 @@
 # Peace out and sorry for bad english
 # Just wanted to say that out of all the codes i have posted in this repo, "Matematica.py" is definitely the most stupid one 🔥
 
-![https://tenor.com/bG5dK.gif]
+![](https://tenor.com/bG5dK.gif)
